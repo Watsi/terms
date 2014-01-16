@@ -81,12 +81,19 @@ us at #{mail_to "privacy@watsi.org"}.
 We will use the personal information you provide to:
 
 * Identify you when you sign into your Account.
+
 * Enable us to provide you with services.
+
 * Send you information we think you may find useful or which you have requested from us.
+
 * Administer your Account with us.
+
 * Enable us to contact you regarding any question you make through the Site.
+
 * Analyze the use of the Site and the people visiting to improve our content and the Site.
+
 * Use for other purposes that we may disclose to you when we request your information.
+
 * Protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
 
 #### Sharing of Personal Information
@@ -94,7 +101,9 @@ We will use the personal information you provide to:
 We do not share your personal information with third parties other than as follows:
 
 * With third party vendors, consultants and other service providers who work for us and need access to your personal information to do that work;
+
 * To (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Watsi, our agents, users, medical partners, and others, including to enforce our agreements, policies, and terms of use; or (iii) in an emergency to protect the personal safety of Watsi, our users, or any person.
+
 * In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
 
 We may also share aggregated or deidentified information.
