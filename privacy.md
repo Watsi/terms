@@ -130,6 +130,15 @@ to share Service related information.
 We never post any personal information to one of your SNS without your
 permission.
 
+We use Stripe for payment, analytics, and other business services.
+When you make a purchase, Stripe receives information about you, your
+transaction, and your payment instrument. Additionally, Stripe
+collects standard information about your device that may be sufficient
+to uniquely recognize it. Stripe uses this information to operate and
+improve the services it provides to us, including for fraud detection
+and compliance purposes. You can learn more about Stripe and read its
+privacy policy at #{link_to 'https://stripe.com'}.
+
 #### Technology
 
 We use various technologies to enhance your experience on our Site.
