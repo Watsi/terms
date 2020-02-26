@@ -483,6 +483,17 @@ made under penalty of perjury, that the above information in your
 notice is accurate and that you are the copyright owner or
 authorized to act on the copyright owner's behalf.
 
+Please note that, pursuant to 17 U.S.C. § 512(f), any misrepresentation
+of material fact (falsities) in a written notification automatically
+subjects the complaining party to liability for any damages, costs and
+attorney’s fees incurred by us in connection with the written notification
+and allegation of copyright infringement.
+ 
+The designated Copyright Agent for Watsi is: Executive Director at Watsi
+Designated Agent: Executive Director at Watsi
+Address of Agent: 548 Market St. #75903, San Francisco, CA 94104 USA
+Telephone: +1-256-792-8747
+Email: connect@watsi.org
 #### Termination
 
 Watsi may terminate your access to the Service, without cause or
